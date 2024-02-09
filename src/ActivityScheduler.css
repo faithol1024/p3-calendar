@@ -1,0 +1,63 @@
+.toplevel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.contentWrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    padding-left: 30px;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 20px;
+}
+
+
+.timeDiv {
+    padding-left: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  border-left: 3px solid #e0e0e0;
+}
+
+.activity{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    position: relative;
+    width: 500px;
+    padding-bottom: 10px;
+
+}
+
+.location{
+    display: block;
+    align-items: center;
+    height: 100%;
+    position: relative;
+    width: 500px;
+    padding-bottom: 10px;
+}   
+
+.socialStat{
+display: block;
+    align-items: center;
+    height: 100%;
+    position: relative;
+    margin-left: 100px;
+    width: 500px;
+  }

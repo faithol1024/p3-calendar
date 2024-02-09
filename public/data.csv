@@ -1,0 +1,22 @@
+id,time,location,activity,social_stat_name_1,social_stat_amt_1,social_stat_name_2,social_stat_amt_2,persona_stat_name_1,persona_stat_amt_1
+1,Always,Game Parade,High School of Youth,Charm,2,,,,
+2,Always,Game Parade,House of the Deceased,Courage,2,,,,
+3,Always,Game Parade,You're the Answer,Academics,2,,,,
+4,Always,Game Parade,Punch Boxer,,,,,Strength,3
+5,Always,Game Parade,Real Wheel Racer,,,,,Agility,3
+6,Always,Game Parade,Edgar's House of Fortune,,,,,Magic,3
+7,Always,Mandragora,Karaoke,Courage,1,,,,
+8,Day,Be Blue V,Part Time,Charm,1,Academics,1,,
+9,Night,Chagall Cafe,Part Time,Charm,1,Courage,1,,
+10,Always,Chagall Cafe,Drink Coffee,Charm,1,,,,
+11,Day,Screen Shot,Part Time,Academics,1,Courage,1,,
+12,Day,Screen Shot,Watch a movie 1,Courage,2,,,,
+13,Day,Screen Shot,Watch a movie 2,Charm,2,,,,
+14,Day,Screen Shot,Watch a movie 3,Academics,2,,,,
+15,Day,Naganasaki Shrine,Offer money,Academics,3,,,,
+16,Always,Wilduck Burger,Eat Mystery Burger,Courage,2,,,,
+17,Night,Wilduck Burger,Big Eater Challenge Win,All,2,,,,
+18,Night,Wilduck Burger,Weekend WIlduck Set,Courage,2,,,,
+19,Always,Hagakure Ramen,Eat Ramen,Charm,2,,,,
+20,Always,Wakatsu Chicken,Eat the Prodigy Platter,Academics,2,,,,
+21,Night,Wakatsu Chicken,Eat The Seafood Full Course,Academics,2,,,,
