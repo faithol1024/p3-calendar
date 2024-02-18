@@ -1,19 +1,18 @@
 .toplevel{
-    display: flex;
+    /* display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    margin-top: 20px;
-
+    justify-content: center; */
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .contentWrapper{
     display: flex;
-    flex-direction: row;
-    align-items: start;
-    justify-content: center;
-    margin-top: 20px;
-
+    width: 100%;
+    height: auto;
+    /* background-color: gray; */
+    /* flex-flow: row wrap; */
 }
 
 .header{
@@ -24,40 +23,51 @@
     padding-left: 30px;
     border-bottom: 1px solid #e0e0e0;
     margin-bottom: 20px;
+    /* background-color: rgb(165, 32, 32); */
 }
 
+.innerWrapper {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
 
 .timeDiv {
-    padding-left: 10px;
+    display: flex;
   align-items: center;
   flex-wrap: wrap;
-  border-left: 3px solid #e0e0e0;
+  width: auto;
+  border: 3px solid #e0e0e0;
+  /* background-color: blue; */
 }
 
 .activity{
     display: flex;
     align-items: center;
-    height: 100%;
+    width: 100%;
     position: relative;
-    width: 500px;
     padding-bottom: 10px;
-
+    /* background-color: orange; */
 }
 
 .location{
     display: block;
     align-items: center;
-    height: 100%;
+    width: 50%;
     position: relative;
-    width: 500px;
     padding-bottom: 10px;
+    /* background-color: green; */
 }   
 
 .socialStat{
-display: block;
+    display: block;
     align-items: center;
     height: 100%;
+    width: 50%;
     position: relative;
-    margin-left: 100px;
-    width: 500px;
-  }
+    /* background-color: yellow; */
+}
